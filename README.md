@@ -1,5 +1,6 @@
 # App-Review-Sentiment-Analysis.SQL
 AppPulse: Deep Dive into Google Play Store Reviews
+
 ## 📝 Project Description
 This project is a complete data analytics pipeline that performs deep sentiment analysis on Google Play Store app reviews, combining raw data cleaning, SQL database modeling, NLP-based sentiment tagging, and Power BI dashboard visualizations.
 
